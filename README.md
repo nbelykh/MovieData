@@ -24,7 +24,7 @@ Movie Data:
 
 The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
 
-[Download here](https://github.com/Irene-arch/Documenting_Example?tab=readme-ov-file)
+[Download here](https://github.com/nbelykh/MovieData/blob/main/NB%20Movies%20Dashboard.xlsx)
 
 
 
