@@ -54,7 +54,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Results and Findings
 
-![Movies Data Dashboard](https://github.com/user-attachments/assets/dd363843-184b-4c35-9cd2-b7f4f888642b)
+![Movies Data Dashboard](https://github.com/nbelykh/MovieData/blob/main/Movie%20Data.png)
 
 
 #### M Language 
